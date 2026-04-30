@@ -246,7 +246,7 @@
     },
     {
       "title": "Arrows Icons | Figma",
-      "url": "https://www.figma.com/community/file/1215889216487938265/arrows-icons?fuid=1589355825024250037"
+      "url": "https://www.figma.com/community/file/1215889216487938265/arrows-icons"
     },
     {
       "title": "Vaultro – Minimalist Crypto Exchange UI by Devtrox on Dribbble",
@@ -393,19 +393,11 @@
       "url": "https://docs.openzeppelin.com/relayer"
     },
     {
-      "title": "5.1 Cancellation – API Documentation",
-      "url": "https://tt-openapi.tinytrader.tech/doc?lang=en&saas=tinySAAS,f960d3774285188c#5-1-cancellation"
+      "title": "TinyTrader API Documentation",
+      "url": "https://tt-openapi.tinytrader.tech/doc"
     }
   ],
   "events": [
-    {
-      "title": "Cursor x Briefcase: FinTech London Hackathon · Luma",
-      "url": "https://luma.com/2ohizf10?tk=7KRvxL"
-    },
-    {
-      "title": "Vercel Labs: AI Agent Skills · Luma",
-      "url": "https://luma.com/l4nmctta?tk=9aOKDL"
-    },
     {
       "title": "meetup.com/rust-london-user-group/events/313297866/rsvp/",
       "url": "https://www.meetup.com/rust-london-user-group/events/313297866/rsvp/"
@@ -749,10 +741,6 @@
       "url": "https://updraft.cyfrin.io/courses/solana/course-intro/course-intro"
     },
     {
-      "title": "geo for websites - Google Search",
-      "url": "https://www.google.com/search?q=geo+for+websites&rlz=1C5CHFA_enLV1099LV1099&oq=GEO+for+websites&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQgzODQ1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8"
-    },
-    {
       "title": "Inertia.js - The Modern Monolith",
       "url": "https://inertiajs.com/"
     },
@@ -925,16 +913,8 @@
       "url": "https://endurable-skink-124.notion.site/What-is-SP3ND-1c7488b678ba80be8262d99470b1b38b"
     },
     {
-      "title": "GoDaddy Domain Name Search",
-      "url": "https://www.godaddy.com/en-uk/domainsearch/find?domainToCheck=KyraPay.com"
-    },
-    {
       "title": "SP3ND - Shop Amazon with Stablecoins | USDC Shopping Platform",
       "url": "https://www.sp3nd.shop/"
-    },
-    {
-      "title": "Account",
-      "url": "https://shop.app/account"
     },
     {
       "title": "ZeroDev: Smart Account Abstraction | Gasless, Walletless Crypto UX",
@@ -955,10 +935,6 @@
     {
       "title": "Tolan: Alien Best Friend",
       "url": "https://www.tolans.com/"
-    },
-    {
-      "title": "mobbin.com/?redirect_to=%2Fsearch%2Fapps%2Fweb%3Fcontent_type%3Dapps%26filter%3DappCategories.Crypto%2B%2526%2BWeb3",
-      "url": "https://mobbin.com/?redirect_to=%2Fsearch%2Fapps%2Fweb%3Fcontent_type%3Dapps%26filter%3DappCategories.Crypto%2B%2526%2BWeb3"
     },
     {
       "title": "Mobbin — UI & UX design inspiration for mobile & web apps",
@@ -999,10 +975,6 @@
     {
       "title": "FlexIt - Every Post = Coin. Every Creator = Asset.",
       "url": "https://www.flexitsol.fun/"
-    },
-    {
-      "title": "Swap 1029743 | Chainflip Explorer",
-      "url": "https://scan.chainflip.io/swaps/1029743"
     },
     {
       "title": "Jumper | Multi-Chain Bridging & Swapping",
@@ -1073,8 +1045,8 @@
   ],
   "shopping": [
     {
-      "title": "Freedom of Money: A Memoir of Protecting Users, Resilience, and the Founding of Binance: Zhao, Changpeng, He, Yi: 9798995069614: Amazon.com: Books",
-      "url": "https://www.amazon.com/Freedom-Money-Protecting-Resilience-Founding/dp/B0GVZK8QPG/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.QzpPBOac4_lackYp8EBvzQ.eCYqb93aJTOUn5lPAGK9Oa9Jd-gaVBBihfbxC0fzv3U&qid=1776186601&sr=1-1"
+      "title": "Freedom of Money: A Memoir - CZ Binance",
+      "url": "https://www.amazon.com/Freedom-Money-Protecting-Resilience-Founding/dp/B0GVZK8QPG"
     },
     {
       "title": "The AI Search Revolution: Adaptive SEO in the Age of AI: Monaghan, Dan: 9798269159195: Amazon.com: Books",
@@ -1136,7 +1108,7 @@
     },
     {
       "title": "Bluff.com (@official_bluff) / X",
-      "url": "https://x.com/official_bluff?hzet=dszqupsbol"
+      "url": "https://x.com/official_bluff"
     },
     {
       "title": "Pop Punk on X: \"Your Attention Span Is Cooked (And So Are The Markets)\" / X",
