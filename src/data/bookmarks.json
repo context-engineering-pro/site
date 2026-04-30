@@ -1,0 +1,1416 @@
+{
+  "agents": [
+    {
+      "title": "Knotwork — Human × agent collaboration layer",
+      "url": "https://knotwork.space/"
+    },
+    {
+      "title": "OpenClaw — Personal AI Assistant",
+      "url": "https://openclaw.ai/"
+    },
+    {
+      "title": "Polyclaw - Autonomous Prediction Market Agents",
+      "url": "https://www.polyclaw.ai/"
+    },
+    {
+      "title": "polyclaw.ai/skill.md",
+      "url": "https://www.polyclaw.ai/skill.md"
+    },
+    {
+      "title": "The Agent Skills Directory",
+      "url": "https://skills.sh/trending"
+    },
+    {
+      "title": "Molt.id | Universal Identity Infrastructure for AI Agents",
+      "url": "https://www.molt.id/"
+    },
+    {
+      "title": "The Agentic AI Handbook: Production-Ready Patterns - Log - nibzard",
+      "url": "https://www.nibzard.com/agentic-handbook"
+    },
+    {
+      "title": "AI Product Manager Skill & Roadmap 2026 | by Shailesh Sharma | Agile Insider | Dec, 2025 | Medium",
+      "url": "https://medium.com/agileinsider/ai-product-manager-skill-roadmap-2026-5896f61c3cae"
+    },
+    {
+      "title": "Governed Data Access for AI Agents | Secure MCP Tools",
+      "url": "https://www.pylar.ai/"
+    },
+    {
+      "title": "Agentic Jumpstart | by WebDevCody",
+      "url": "https://agenticjumpstart.com/"
+    }
+  ],
+  "ai": [
+    {
+      "title": "Pricing plans — Higgsfield AI Video & Image Generator",
+      "url": "https://higgsfield.ai/pricing"
+    },
+    {
+      "title": "Suno | AI Music Generator",
+      "url": "https://suno.com/"
+    },
+    {
+      "title": "AI Engineer Europe 2026: Apr 8-10, London",
+      "url": "https://www.ai.engineer/europe#side-events"
+    },
+    {
+      "title": "AI Engineer Europe 2026: Apr 8-10, London",
+      "url": "https://www.ai.engineer/europe"
+    },
+    {
+      "title": "zai-org/GLM-5 · Hugging Face",
+      "url": "https://huggingface.co/zai-org/GLM-5"
+    },
+    {
+      "title": "Hugging Face – The AI community building the future.",
+      "url": "https://huggingface.co/"
+    },
+    {
+      "title": "Newsroom \\ Anthropic",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "title": "Home \\ Anthropic",
+      "url": "https://www.anthropic.com/"
+    },
+    {
+      "title": "Project Vend: Phase two \\ Anthropic",
+      "url": "https://www.anthropic.com/research/project-vend-2"
+    }
+  ],
+  "analytics": [
+    {
+      "title": "skr phone buys | Dune",
+      "url": "https://dune.com/jackguy/skr-phone-buys"
+    },
+    {
+      "title": "Macaron Protocol Solana | Dune",
+      "url": "https://dune.com/macaron_protocol/macaron-protocol"
+    },
+    {
+      "title": "Seeker Prediction Markets | Dune",
+      "url": "https://dune.com/seekernomad/seeker-prediction-markets"
+    },
+    {
+      "title": "Memecoin Wars | Dune",
+      "url": "https://dune.com/adam_tehc/memecoin-wars"
+    },
+    {
+      "title": "Pump.Fun Alpha Wallets | Dune",
+      "url": "https://dune.com/adam_tehc/pump-fun-alpha-wallets"
+    },
+    {
+      "title": "Facts | Dune",
+      "url": "https://dune.com/unicorndegen/facts"
+    },
+    {
+      "title": "xStocks Official Dashboard | Dune",
+      "url": "https://dune.com/xstocks/xstocks"
+    },
+    {
+      "title": "Solana Seeker - Overview of Seeker + Mobile Adoption on Solana | Dune",
+      "url": "https://dune.com/zkayape/solseeker"
+    },
+    {
+      "title": "Seeker ($SKR) Airdrop | Dune",
+      "url": "https://dune.com/stepanalytics_team/seeker-dollarskr-airdrop"
+    },
+    {
+      "title": "Seeker .skr domain registrations and gentoken activations | Dune",
+      "url": "https://dune.com/tenebrisvia/seekerregistrations"
+    }
+  ],
+  "automation": [
+    {
+      "title": "Do Anything - Your AI-Powered Personal Assistant for Task Automation | Do Anything",
+      "url": "https://www.doanything.com/landing"
+    },
+    {
+      "title": "Browser Use - Enable AI to automate the web",
+      "url": "https://browser-use.com/"
+    },
+    {
+      "title": "All-in-One Email Marketing Automation, Live Chat, & Help Desk Software",
+      "url": "https://getgist.com/"
+    },
+    {
+      "title": "superwhisper",
+      "url": "https://superwhisper.com/"
+    },
+    {
+      "title": "What is an Automated Market Maker? (Liquidity Pool Algorithm) - YouTube",
+      "url": "https://www.youtube.com/watch?v=1PbZMudPP5E"
+    }
+  ],
+  "code": [
+    {
+      "title": "MatrixTM/MHDDoS: Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+      "url": "https://github.com/MatrixTM/MHDDoS?tab=readme-ov-file"
+    },
+    {
+      "title": "generative-ai/gemini/agents/always-on-memory-agent at main · GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/agents/always-on-memory-agent"
+    },
+    {
+      "title": "affaan-m/everything-claude-code: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/everything-claude-code"
+    },
+    {
+      "title": "openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision",
+      "url": "https://github.com/openai/whisper"
+    },
+    {
+      "title": "tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "url": "https://github.com/tobi/qmd"
+    },
+    {
+      "title": "Z.ai",
+      "url": "https://github.com/zai-org"
+    },
+    {
+      "title": "nibzard/awesome-agentic-patterns: A curated catalogue of awesome agentic AI patterns",
+      "url": "https://github.com/nibzard/awesome-agentic-patterns?utm_source=nibzard.com"
+    }
+  ],
+  "community": [
+    {
+      "title": "SuperteamUK",
+      "url": "https://www.reddit.com/r/SuperteamUK/"
+    },
+    {
+      "title": "AI Agents",
+      "url": "https://www.reddit.com/r/AI_Agents/"
+    },
+    {
+      "title": "is this what it looks like when one of your apps blows up? : r/lovable",
+      "url": "https://www.reddit.com/r/lovable/comments/1qhamr9/is_this_what_it_looks_like_when_one_of_your_apps/"
+    }
+  ],
+  "compliance": [
+    {
+      "title": "Sumsub | Applicants Dashboard",
+      "url": "https://cockpit.sumsub.com/checkus/settings/team/members"
+    }
+  ],
+  "crypto": [
+    {
+      "title": "Kraken Crypto Exchange | Buy crypto with peace of mind",
+      "url": "https://www.kraken.com/en-gb/lp/platform"
+    },
+    {
+      "title": "Sign Up | Publishing Portal",
+      "url": "https://publish.solanamobile.com/auth"
+    },
+    {
+      "title": "Your Preferred Institutional Grade Fiat-to-Crypto Exchange - BitDATA Exchange Global",
+      "url": "https://bitdataexchange.com/"
+    },
+    {
+      "title": "Buy Bitcoin (BTC), Ethereum (ETH) & Altcoins Instantly | bitcastle",
+      "url": "https://bitcastle.io/en/buy-crypto"
+    },
+    {
+      "title": "Gondor - Borrow against your Polymarket positions",
+      "url": "https://gondor.fi/"
+    },
+    {
+      "title": "Death Watch Featurelist - Loot Drop",
+      "url": "https://loot-drop.vercel.app/roadmap.html"
+    },
+    {
+      "title": "The Story Behind - Loot Drop",
+      "url": "https://loot-drop.vercel.app/story.html"
+    },
+    {
+      "title": "Loot Drop - The Startup Graveyard | 900+ Failed Startup Ideas to Steal",
+      "url": "https://loot-drop.vercel.app/"
+    },
+    {
+      "title": "Time.fun",
+      "url": "https://time.fun/kash"
+    }
+  ],
+  "design": [
+    {
+      "title": "Leaderboard by James on Dribbble",
+      "url": "https://dribbble.com/shots/7997117-Leaderboard"
+    },
+    {
+      "title": "Crypto Exchange Web Platform by Conceptzilla on Dribbble",
+      "url": "https://dribbble.com/shots/24492504-Crypto-Exchange-Web-Platform"
+    },
+    {
+      "title": "Crypto P2P Trading App – Dark UI Concept by Designistic™ on Dribbble",
+      "url": "https://dribbble.com/shots/25765249-Crypto-P2P-Trading-App-Dark-UI-Concept"
+    },
+    {
+      "title": "Arrows Icons | Figma",
+      "url": "https://www.figma.com/community/file/1215889216487938265/arrows-icons?fuid=1589355825024250037"
+    },
+    {
+      "title": "Vaultro – Minimalist Crypto Exchange UI by Devtrox on Dribbble",
+      "url": "https://dribbble.com/shots/26315007-Vaultro-Minimalist-Crypto-Exchange-UI"
+    },
+    {
+      "title": "Finanze - Finance Landing Page 💸 by Panda Design 🐼 for Uranus Team on Dribbble",
+      "url": "https://dribbble.com/shots/22266251-Finanze-Finance-Landing-Page"
+    },
+    {
+      "title": "Attio homepage redesign by Milos Bojkovic for Attio on Dribbble",
+      "url": "https://dribbble.com/shots/25432766-Attio-homepage-redesign"
+    },
+    {
+      "title": "Crypto Design | Landing Page Design | Banking App | UX UI by ByteTown on Dribbble",
+      "url": "https://dribbble.com/shots/26157517-Crypto-Design-Landing-Page-Design-Banking-App-UX-UI"
+    },
+    {
+      "title": "Finanze - Finance Mobile App 💸 by Panda Design 🐼 for Uranus Team on Dribbble",
+      "url": "https://dribbble.com/shots/22077434-Finanze-Finance-Mobile-App"
+    },
+    {
+      "title": "Crypto Landing Page Design – Pexovia | Buy & Trade by Design by Pexovia on Dribbble",
+      "url": "https://dribbble.com/shots/26146214-Crypto-Landing-Page-Design-Pexovia-Buy-Trade"
+    },
+    {
+      "title": "Fin-tech, Payment Landing Page/Web Exploration by Kahaf on Dribbble",
+      "url": "https://dribbble.com/shots/21358200-Fin-tech-Payment-Landing-Page-Web-Exploration"
+    },
+    {
+      "title": "Oucher Web Site Design: Landing Page / Home Page UI by Halo UI/UX for HALO LAB on Dribbble",
+      "url": "https://dribbble.com/shots/20662887-Oucher-Web-Site-Design-Landing-Page-Home-Page-UI"
+    },
+    {
+      "title": "Personal site hero GIF by Nicolas Solerieu on Dribbble",
+      "url": "https://dribbble.com/shots/26025421-Personal-site-hero-GIF"
+    },
+    {
+      "title": "Portfolio Site - Testimonials & Reviews Webpage by Vlad Radchenko on Dribbble",
+      "url": "https://dribbble.com/shots/17370874-Portfolio-Site-Testimonials-Reviews-Webpage"
+    },
+    {
+      "title": "Crypto Service - Landing page by Arounda on Dribbble",
+      "url": "https://dribbble.com/shots/14765157-Crypto-Service-Landing-page"
+    },
+    {
+      "title": "Trading App Website by Filip Gadziński on Dribbble",
+      "url": "https://dribbble.com/shots/19936798-Trading-App-Website"
+    },
+    {
+      "title": "Tradeboo: crypto stocks landing page, saas portfolio startup by Emilian for DesignUp on Dribbble",
+      "url": "https://dribbble.com/shots/19918119-Tradeboo-crypto-stocks-landing-page-saas-portfolio-startup"
+    },
+    {
+      "title": "Palmer - Web 3 Platform by Arounda UI/UX for Arounda on Dribbble",
+      "url": "https://dribbble.com/shots/20476644-Palmer-Web-3-Platform"
+    },
+    {
+      "title": "CryptoEdge — Modern Crypto Landing Page UI by Neha Naseem on Dribbble",
+      "url": "https://dribbble.com/shots/26705358-CryptoEdge-Modern-Crypto-Landing-Page-UI"
+    },
+    {
+      "title": "Brazer Exchange Money - Web Design by Batix on Dribbble",
+      "url": "https://dribbble.com/shots/18868204-Brazer-Exchange-Money-Web-Design"
+    },
+    {
+      "title": "Digital banking & payment web ui design by Roohi Koohi ✦ on Dribbble",
+      "url": "https://dribbble.com/shots/26533598-Digital-banking-payment-web-ui-design"
+    },
+    {
+      "title": "Trend payment web ui design by Roohi Koohi ✦ on Dribbble",
+      "url": "https://dribbble.com/shots/26087585-Trend-payment-web-ui-design"
+    },
+    {
+      "title": "Banking Landing Page - Light Version 🔥🤘 by Mohammad Reza Farahzad for Oniex™ on Dribbble",
+      "url": "https://dribbble.com/shots/17488383-Banking-Landing-Page-Light-Version"
+    },
+    {
+      "title": "Creso - Web3 Landing Page🔥 by Mohammad Reza Farahzad for Geex Arts on Dribbble",
+      "url": "https://dribbble.com/shots/23322519-Creso-Web3-Landing-Page"
+    },
+    {
+      "title": "LocalTrade cryptocurrency exchange trading by Anatoliy Demyanchuk for Demyanchuk Art Team on Dribbble",
+      "url": "https://dribbble.com/shots/15961264-LocalTrade-cryptocurrency-exchange-trading"
+    },
+    {
+      "title": "original-159cbb5d9e978a1bd7eaeb4107a5fa5b.png (752×2370)",
+      "url": "https://cdn.dribbble.com/userupload/5542545/file/original-159cbb5d9e978a1bd7eaeb4107a5fa5b.png?resize=752x&vertical=center"
+    },
+    {
+      "title": "Online Education Web Platform by Conceptzilla on Dribbble",
+      "url": "https://dribbble.com/shots/23602227-Online-Education-Web-Platform"
+    },
+    {
+      "title": "Crypto Exchange Website Design by Conceptzilla on Dribbble",
+      "url": "https://dribbble.com/shots/21733325-Crypto-Exchange-Website-Design"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "PostHog – We make dev tools for product engineers",
+      "url": "https://posthog.com/"
+    },
+    {
+      "title": "Graphify — Open-Source Knowledge Graph Skill for AI Coding Assistants",
+      "url": "https://graphify.net/#examples"
+    },
+    {
+      "title": "Obsidian - Sharpen your thinking",
+      "url": "https://obsidian.md/"
+    },
+    {
+      "title": "Graphify — Open-Source Knowledge Graph Skill for AI Coding Assistants",
+      "url": "https://graphify.net/"
+    },
+    {
+      "title": "Graphify",
+      "url": "https://www.getgraphify.com/"
+    }
+  ],
+  "docs": [
+    {
+      "title": "Decentralized party overview — Digital Asset’s platform documentation",
+      "url": "https://docs.digitalasset.com/operate/3.4/howtos/operate/parties/decentralized_parties.html"
+    },
+    {
+      "title": "Download and Install Canton — Daml SDK 2.10.3 documentation",
+      "url": "https://docs.daml.com/canton/usermanual/downloading.html"
+    },
+    {
+      "title": "Create a CSR for an API user",
+      "url": "https://developers.fireblocks.com/docs/generate-a-csr-for-an-api-user"
+    },
+    {
+      "title": "Transparency - Flashnet",
+      "url": "https://docs.flashnet.xyz/usdb/transparency"
+    },
+    {
+      "title": "Changelog · Cursor",
+      "url": "https://cursor.com/changelog"
+    },
+    {
+      "title": "app/docs/specs/referral-system-spec.md at 8711a41deedea0ecb17ded29eeb553cb769caef0 · ernorg/app",
+      "url": "https://github.com/ernorg/app/blob/8711a41deedea0ecb17ded29eeb553cb769caef0/docs/specs/referral-system-spec.md"
+    },
+    {
+      "title": "OpenZeppelin Relayer | OpenZeppelin Docs",
+      "url": "https://docs.openzeppelin.com/relayer"
+    },
+    {
+      "title": "5.1 Cancellation – API Documentation",
+      "url": "https://tt-openapi.tinytrader.tech/doc?lang=en&saas=tinySAAS,f960d3774285188c#5-1-cancellation"
+    }
+  ],
+  "events": [
+    {
+      "title": "Cursor x Briefcase: FinTech London Hackathon · Luma",
+      "url": "https://luma.com/2ohizf10?tk=7KRvxL"
+    },
+    {
+      "title": "Vercel Labs: AI Agent Skills · Luma",
+      "url": "https://luma.com/l4nmctta?tk=9aOKDL"
+    },
+    {
+      "title": "meetup.com/rust-london-user-group/events/313297866/rsvp/",
+      "url": "https://www.meetup.com/rust-london-user-group/events/313297866/rsvp/"
+    }
+  ],
+  "finance": [
+    {
+      "title": "Grasshopper Bank | Digital Business Banking",
+      "url": "https://www.grasshopper.bank/"
+    },
+    {
+      "title": "IntraFi® | Home",
+      "url": "https://www.intrafi.com/"
+    },
+    {
+      "title": "Bridge | Stablecoin Infrastructure and APIs for Developers",
+      "url": "https://www.bridge.xyz/?utm_campaign=EMEA_UK_en_Google_Search_Brand_Bridge_EXA_Bridge-22406226164&utm_medium=cpc&utm_source=google&utm_content=759367891436&utm_term=bridge%20payments&utm_matchtype=e&utm_adposition=&utm_device=c&gad_source=1&gad_campaignid=22406226164&gbraid=0AAAAA-8_INb6EFxMCpeiKxG81Kx08lBdA&gclid=CjwKCAiAqprNBhB6EiwAMe3yhrtTh7rVHaivJXMxLFkpP5C6nkCEhrUWV5MRO2o0NpEJbTaSYtGkqRoCjLwQAvD_BwE"
+    },
+    {
+      "title": "Cross River | API-Based Financial Solutions for Business",
+      "url": "https://www.crossriver.com/"
+    },
+    {
+      "title": "Business banking | Meow",
+      "url": "https://www.meow.com/"
+    },
+    {
+      "title": "Bridge | Stablecoin Infrastructure and APIs for Developers",
+      "url": "https://www.bridge.xyz/?utm_campaign=EMEA_UK_en_Google_Search_Brand_Bridge_EXA_Bridge-22406226164&utm_medium=cpc&utm_source=google&utm_content=743773005492&utm_term=bridge%20payments&utm_matchtype=e&utm_adposition=&utm_device=c&gad_source=1&gad_campaignid=22406226164&gbraid=0AAAAA-8_INaU3Gb2XE6i2RoIrOLaAybaU&gclid=CjwKCAiA2PrMBhA4EiwAwpHyCy_ubZZj8gbKanoF8bgEc4QYA07KQzdS2ngHgJXPRA0FYOq8DWmWqRoC0ckQAvD_BwE"
+    }
+  ],
+  "lifestyle": [
+    {
+      "title": "Next steps for a water connection | Help | Thames Water",
+      "url": "https://www.thameswater.co.uk/help/home-improvements/how-to-install-a-new-water-connection/next-steps-in-your-water-connection"
+    },
+    {
+      "title": "Red Bull Soapbox Race London 2026",
+      "url": "https://www.redbull.com/gb-en/events/red-bull-soapbox-race-london-2026"
+    },
+    {
+      "title": "HR Auto Expo - London, Greater London",
+      "url": "https://www.cargurus.co.uk/Cars/m-HR-Auto-Expo-sp480886"
+    }
+  ],
+  "other": [
+    {
+      "title": "Leaderboard — Solana dApp Store Analytics",
+      "url": "https://dappstore.dinario.app/"
+    },
+    {
+      "title": "Openware Crypto Exchange Foundry | Blockchain Open Source Software",
+      "url": "https://www.openware.com/projects#community"
+    },
+    {
+      "title": "Push Notification & In-App Messaging Software for Gaming… - OneSignal",
+      "url": "https://onesignal.com/gaming?utm_source=google&utm_medium=cpc&utm_campaign=BOF_Brand_Search_EMEA-A&gclid=Cj0KCQjwy_fOBhC6ARIsAHKFB78HCm9CQjMJQv76QfLTPykhCYesfgLyYHscADiQqGxkwD4dct5-YB0aAr9LEALw_wcB"
+    },
+    {
+      "title": "Mindset – Tagged \"The Way of the Rhino\" – Schofield Chiropractic Training",
+      "url": "https://www.mochihchu.com/collections/mindset/the-way-of-the-rhino"
+    },
+    {
+      "title": "The Way of the Rhino by Dr. Fred Schofield – Schofield Chiropractic Training",
+      "url": "https://www.mochihchu.com/products/the-way-of-the-rhino-by-dr-fred-schofield"
+    },
+    {
+      "title": "Pokémon & Sports Card Marketplace | Courtyard.io",
+      "url": "https://courtyard.io/marketplace"
+    },
+    {
+      "title": "CrowdStrike: We Stop Breaches with AI-native Cybersecurity",
+      "url": "https://www.crowdstrike.com/en-gb/?utm_campaign=brand&utm_content=crwd-brand-eur-uki-en-psp-x-x-x-tct-x_x_x_core-x&utm_medium=sem&utm_source=goog&utm_term=crowdstrike&utm_language=en-gb&cq_cmp=22070510532&cq_plac={placement]&gad_source=1&gad_campaignid=22070510532&gbraid=0AAAAAC-K3YQa-kNjxe84kYRa9Np3Dn-2a&gclid=CjwKCAiAh5XNBhAAEiwA_Bu8FcmjDdB7yziQzn7JIXlJqoX7Zf7Uo1csHMKWBQqWaZ2BbSMt5-baxBoCShEQAvD_BwE"
+    },
+    {
+      "title": "Raspberry Pi 5 - The Pi Hut",
+      "url": "https://thepihut.com/products/raspberry-pi-5?src=raspberrypi&variant=42531604955331"
+    },
+    {
+      "title": "LM Studio - Local AI on your computer",
+      "url": "https://lmstudio.ai/"
+    },
+    {
+      "title": "LMT studios",
+      "url": "https://www.lmtstudios.com/"
+    },
+    {
+      "title": "Generative AI LLMs Certification for Professionals | NVIDIA",
+      "url": "https://www.nvidia.com/en-gb/learn/certification/generative-ai-llm-professional/"
+    },
+    {
+      "title": "Mem0 - The Memory Layer for your AI Apps",
+      "url": "https://mem0.ai/"
+    },
+    {
+      "title": "ALL – KENJI",
+      "url": "https://www.kenji.co.uk/collections/all"
+    },
+    {
+      "title": "Basalt-landingpage",
+      "url": "https://basaltprotocol.xyz/"
+    },
+    {
+      "title": "Certification Programs | NVIDIA",
+      "url": "https://www.nvidia.com/en-us/learn/certification/"
+    },
+    {
+      "title": "Reflect >> Autonomous money designed for the stablecoin era",
+      "url": "https://reflect.money/"
+    },
+    {
+      "title": "UpRock AI | Insight Stacks for the AI web",
+      "url": "https://uprock.ai/app/settings"
+    },
+    {
+      "title": "Verda Ventures – Unlocking Financial Access For The Next Billion",
+      "url": "https://verda.ventures/"
+    },
+    {
+      "title": "MiniPay | Dollar Stablecoin Wallet",
+      "url": "https://minipay.to/"
+    },
+    {
+      "title": "Sargo",
+      "url": "https://sargo.io/"
+    },
+    {
+      "title": "human.tech",
+      "url": "https://human.tech/"
+    },
+    {
+      "title": "Ika | The Fastest Parallel MPC Network on Sui",
+      "url": "https://ika.xyz/"
+    },
+    {
+      "title": "Günstige Dedicated Server, Cloud & Hosting aus Deutschland",
+      "url": "https://www.hetzner.com/"
+    },
+    {
+      "title": "Seedance 2.0",
+      "url": "https://seed.bytedance.com/en/seedance2_0"
+    },
+    {
+      "title": "Coding Plan - MiniMax API Platform",
+      "url": "https://platform.minimax.io/subscribe/coding-plan"
+    },
+    {
+      "title": "B2B Data Provider for Industry Leading Platforms | People Data Labs",
+      "url": "https://www.peopledatalabs.com/"
+    },
+    {
+      "title": "anon0mesh — Mesh First, Chain When It Matters",
+      "url": "https://www.anonme.sh/"
+    },
+    {
+      "title": "Capa – Making Pesos Flow like Water",
+      "url": "https://capa.fi/"
+    },
+    {
+      "title": "UpRock AI | Insight Stacks for the AI web",
+      "url": "https://uprock.ai/app/tools/ai-sitemaps/overview"
+    },
+    {
+      "title": "The Crypto ECN - Crossover Markets - Crossover",
+      "url": "https://crossovermarkets.com/"
+    },
+    {
+      "title": "Grow your retail business with Xpos | Built in the cloud. Designed for golfCrossover Technologies",
+      "url": "https://www.crossovertec.co.uk/"
+    },
+    {
+      "title": "Account",
+      "url": "https://pro.coinmarketcap.com/account/plan"
+    },
+    {
+      "title": "Circle Payments Network | Global Stablecoin Payments | Circle",
+      "url": "https://www.circle.com/cpn"
+    },
+    {
+      "title": "SpaceX, OpenAI & Anthropic IPOs : A $3 Trillion Stress Test | Tomasz Tunguz",
+      "url": "https://tomtunguz.com/spacex-openai-anthropic-ipo-2026/"
+    },
+    {
+      "title": "LangBot – Practise Languages Directly on 𝕏",
+      "url": "https://uselangbot.com/"
+    },
+    {
+      "title": "Hampton, the private network for high-growth founders.",
+      "url": "https://joinhampton.com/"
+    },
+    {
+      "title": "The Paladin Guild",
+      "url": "https://www.paladin.cc/"
+    },
+    {
+      "title": "Moby Screener - Real-time tracking of tokens. Monitor prices, charts, metrics, and security of crypto tokens.",
+      "url": "https://www.mobyscreener.com/?_branch_match_id=1552283029904103664&utm_source=referral&utm_campaign=referral-program&utm_medium=user-invite&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8wryyxJ1cvNT6osTi5KTc1LLdJLzs%2FVT%2FPP9wkp9i4rjkyyrytKTUstKsrMS49PKsovL04tsnXOKMrPTQUAAmDn00UAAAA%3D"
+    },
+    {
+      "title": "State of the Trenches | MobyScreener",
+      "url": "https://www.mobyscreener.com/state-of-the-trenches"
+    },
+    {
+      "title": "Algorithms for Modern Hardware - Algorithmica",
+      "url": "https://en.algorithmica.org/hpc/"
+    },
+    {
+      "title": "MFSA Company Service Providers Rulebook",
+      "url": "https://www.mfsa.mt/wp-content/uploads/2021/03/Company-Service-Providers-Rulebook.pdf"
+    },
+    {
+      "title": "Rules - MFSA",
+      "url": "https://www.mfsa.mt/firms/regulated-firms/rules/"
+    },
+    {
+      "title": "I Arbitraged USDC. No One Noticed. - Δrm√⁷L",
+      "url": "https://substack.com/@armv7l"
+    },
+    {
+      "title": "The day i meet my counterparty! (my $25k pnl lighter strategy)",
+      "url": "https://substack.com/home/post/p-188018329"
+    },
+    {
+      "title": "WeryAI - Free AI Video Generator & Image Tools (Kling, Flux, Veo)",
+      "url": "https://www.weryai.com/"
+    },
+    {
+      "title": "Enhancor - AI Skin Texture Enhancement Tool",
+      "url": "https://www.enhancor.ai/#pricing"
+    },
+    {
+      "title": "Hacker News",
+      "url": "https://news.ycombinator.com/"
+    },
+    {
+      "title": "Get tickets – AI Creator Summit and Awards – Rich Mix",
+      "url": "https://www.tickettailor.com/events/bionicawards/2017813"
+    },
+    {
+      "title": "Seeker Tracker - .skr SeekerID Search",
+      "url": "https://seekertracker.com/"
+    },
+    {
+      "title": "Kling AI: Next-Generation AI Creative Studio",
+      "url": "https://klingai.com/global/dev/pricing"
+    },
+    {
+      "title": "PunkStrategy™ — Perpetual Punk Machine",
+      "url": "https://www.punkstrategy.fun/app"
+    },
+    {
+      "title": "PunkStrategy Price: PNKSTR Live Price Chart, Market Cap & News Today | CoinGecko",
+      "url": "https://www.coingecko.com/en/coins/punkstrategy"
+    },
+    {
+      "title": "TokenWorks™",
+      "url": "https://www.token.works/"
+    },
+    {
+      "title": "HolderScan.com",
+      "url": "https://holderscan.com/"
+    },
+    {
+      "title": "SKR Holders - Seeker on SOL | HolderScan",
+      "url": "https://holderscan.com/token/E5fEzqw24NxPWd3W8rSkPnsUqxpRVnb8om9EyDEJSsKr"
+    },
+    {
+      "title": "Fractional CryptoPunks | DCA into CryptoPunks",
+      "url": "https://fpunk.io/"
+    },
+    {
+      "title": "Company Overview | Create Your Own White Label Crypto Exchange",
+      "url": "https://tinytrader.com/company-overview/"
+    },
+    {
+      "title": "Pinata | Crypto's file storage",
+      "url": "https://pinata.cloud/"
+    },
+    {
+      "title": "Heist",
+      "url": "https://theheist.game/login"
+    },
+    {
+      "title": "Chimps | The Heist",
+      "url": "https://the-heist.gitbook.io/the-heist-return-to-peel-city/characters/chimps"
+    },
+    {
+      "title": "Collector Crypt - Your Digital Bridge for Real-World Collectibles",
+      "url": "https://collectorcrypt.com/"
+    },
+    {
+      "title": "Fogo Sessions: One-Click Access to Every App",
+      "url": "https://www.fogo.io/fogo-sessions"
+    },
+    {
+      "title": "Fogo.io - Trade without compromise",
+      "url": "https://www.fogo.io/"
+    },
+    {
+      "title": "Profile setup - Mastodon",
+      "url": "https://mastodon.social/start"
+    },
+    {
+      "title": "Elite Spearbit Security Researchers via Cantina",
+      "url": "https://cantina.xyz/solutions/spearbit"
+    },
+    {
+      "title": "Schedule Call | Ankush Kun",
+      "url": "https://ankush.one/schedule/"
+    },
+    {
+      "title": "The Typescript AI framework - Mastra",
+      "url": "https://mastra.ai/books/patterns-of-building-ai-agents"
+    },
+    {
+      "title": "Apps - Help Scout",
+      "url": "https://secure.helpscout.net/apps/create"
+    },
+    {
+      "title": "Thesys - The Generative UI Company",
+      "url": "https://www.thesys.dev/"
+    },
+    {
+      "title": "Vending-Bench 2 | Andon Labs",
+      "url": "https://andonlabs.com/evals/vending-bench-2"
+    },
+    {
+      "title": "Darkmatter AI Labs - Intelligence. For complex industries.",
+      "url": "https://www.darkmatter.is/"
+    },
+    {
+      "title": "Trending - Mastodon",
+      "url": "https://mastodon.social/explore"
+    },
+    {
+      "title": "Crypto Payment Gateway & Processing | B2BINPAY",
+      "url": "https://b2binpay.com/en"
+    },
+    {
+      "title": "Video: Course Intro - Course Intro - Solana",
+      "url": "https://updraft.cyfrin.io/courses/solana/course-intro/course-intro"
+    },
+    {
+      "title": "geo for websites - Google Search",
+      "url": "https://www.google.com/search?q=geo+for+websites&rlz=1C5CHFA_enLV1099LV1099&oq=GEO+for+websites&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQgzODQ1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8"
+    },
+    {
+      "title": "Inertia.js - The Modern Monolith",
+      "url": "https://inertiajs.com/"
+    },
+    {
+      "title": "Introduction • Create T3 App",
+      "url": "https://create.t3.gg/en/introduction"
+    },
+    {
+      "title": "Supermachine",
+      "url": "https://supermachine.ai/"
+    },
+    {
+      "title": "Lombard Finance",
+      "url": "https://www.lombard.finance/app/swap"
+    },
+    {
+      "title": "Developer Roadmaps - roadmap.sh",
+      "url": "https://roadmap.sh/"
+    },
+    {
+      "title": "bitchat",
+      "url": "https://bitchat.free/"
+    },
+    {
+      "title": "iShares III plc Share Price (SWDA) Core MSCI World UCITS ETF USD Acc (GBP) | SWDA",
+      "url": "https://www.hl.co.uk/shares/shares-search-results/i/ishares-core-msci-world-ucits-etf-usd-acc"
+    },
+    {
+      "title": "Inertia Rails",
+      "url": "https://inertia-rails.dev/"
+    },
+    {
+      "title": "Why Tether has bought 70% of Adecoagro | Paperjam English News",
+      "url": "https://en.paperjam.lu/article/why-tether-has-bought-70-of-adecoagro"
+    },
+    {
+      "title": "Danny Postma",
+      "url": "https://www.dannypostma.com/seo-course"
+    },
+    {
+      "title": "goodreads.com/book/show/242645169-the-ai-search-revolution",
+      "url": "https://www.goodreads.com/book/show/242645169-the-ai-search-revolution"
+    },
+    {
+      "title": "Plans & Pricing - Ahrefs",
+      "url": "https://ahrefs.com/pricing"
+    },
+    {
+      "title": "Full-Stack Observability & Security Built for Enterprise Scale | Datadog",
+      "url": "https://www.datadoghq.com/dg/monitor/free-trial/?utm_source=google&utm_medium=paid-search&utm_campaign=dg-brand-ww&utm_keyword=datadog&utm_matchtype=b&igaag=95325237782&igaat=&igacm=9551169254&igacr=651959074277&igakw=datadog&igamt=b&igant=g&utm_campaignid=9551169254&utm_adgroupid=95325237782&gad_source=1&gad_campaignid=9551169254&gbraid=0AAAAADFY9Nmcuz0s-Jo17RAvti6pINSR0&gclid=CjwKCAiA95fLBhBPEiwATXUsxBaCsRIGtUgqVXv0d2BTA9a-9yxAL8tgy67ffts8FM2695oA8IdvuhoCQhoQAvD_BwE"
+    },
+    {
+      "title": "IDEO : Human-centered design",
+      "url": "https://www.ideo.com/"
+    },
+    {
+      "title": "EMCD / Coinhold - Give your crypto a job up to 14% APY",
+      "url": "https://emcd.io/coinhold/"
+    },
+    {
+      "title": "The AI customer service company",
+      "url": "https://www.intercom.com/"
+    },
+    {
+      "title": "#1 Job Board & Warm Intro Solution l Getro",
+      "url": "https://www.getro.com/"
+    },
+    {
+      "title": "LO:TECH",
+      "url": "https://lo.tech/"
+    },
+    {
+      "title": "Enflux – Market Making, DEX Liquidity & Trading Infrastructure",
+      "url": "https://www.enflux.io/"
+    },
+    {
+      "title": "Stake | Jupiter",
+      "url": "https://jup.ag/stake"
+    },
+    {
+      "title": "makertwo.com",
+      "url": "https://makertwo.com/"
+    },
+    {
+      "title": "Few-Shot Prompting | Prompt Engineering Guide",
+      "url": "https://www.promptingguide.ai/techniques/fewshot"
+    },
+    {
+      "title": "Ondo Finance",
+      "url": "https://ondo.finance/"
+    },
+    {
+      "title": "Easily Unsubscribe from Unwanted Emails and Clean Your Inbox - Leave Me Alone",
+      "url": "https://leavemealone.com/"
+    },
+    {
+      "title": "Open source Business Intelligence and Embedded Analytics",
+      "url": "https://www.metabase.com/"
+    },
+    {
+      "title": "Express - Node.js web application framework",
+      "url": "https://expressjs.com/"
+    },
+    {
+      "title": "Cloud Application Platform | Render",
+      "url": "https://render.com/"
+    },
+    {
+      "title": "1.1.1.1 — The free app that makes your Internet faster.",
+      "url": "https://one.one.one.one/"
+    },
+    {
+      "title": ".:: Phrack Magazine ::.",
+      "url": "https://phrack.org/issues/71/17"
+    },
+    {
+      "title": "Bitcoin MENA 2025",
+      "url": "https://mena.b.tc/"
+    },
+    {
+      "title": "Marc Lou | Indie Page",
+      "url": "https://indiepa.ge/marclou"
+    },
+    {
+      "title": "Tiago Martins (tiagom87) - Porto, Porto, Portugal (301 books)",
+      "url": "https://www.goodreads.com/user/show/59304190-tiago-martins"
+    },
+    {
+      "title": "AI SDK",
+      "url": "https://ai-sdk.dev/"
+    },
+    {
+      "title": "lmarena.ai/leaderboard",
+      "url": "https://lmarena.ai/leaderboard"
+    },
+    {
+      "title": "v0 by Vercel",
+      "url": "https://v0.app/"
+    },
+    {
+      "title": "framer.com/solutions/website-builder/?utm_source=google&utm_medium=adwords&utm_campaign=22274021881_180962521648&utm_content=746821181184_framer_e_c_g&gad_source=1&gad_campaignid=22274021881&gbraid=0AAAAAC3AKQUcMP0DbWVHg_VXIYBQYsjKP&gclid=Cj0KCQiAvOjKBhC9ARIsAFvz5lhxyjlAGWizT-lKKPhF0ptaG2I8y_WdpOsW1c3uywOuui_v6UVT0_saAhBaEALw_wcB",
+      "url": "https://www.framer.com/solutions/website-builder/?utm_source=google&utm_medium=adwords&utm_campaign=22274021881_180962521648&utm_content=746821181184_framer_e_c_g&gad_source=1&gad_campaignid=22274021881&gbraid=0AAAAAC3AKQUcMP0DbWVHg_VXIYBQYsjKP&gclid=Cj0KCQiAvOjKBhC9ARIsAFvz5lhxyjlAGWizT-lKKPhF0ptaG2I8y_WdpOsW1c3uywOuui_v6UVT0_saAhBaEALw_wcB"
+    },
+    {
+      "title": "Cossistant - Open-Source AI and Human support framework",
+      "url": "https://cossistant.com/"
+    },
+    {
+      "title": "UniLive",
+      "url": "https://www.unimex.online/"
+    },
+    {
+      "title": "chris.gg | notes on information security and remote working",
+      "url": "http://chris.gg/"
+    },
+    {
+      "title": "Robinhood: Commission-free Stock Trading & Investing App",
+      "url": "https://robinhood.com/gb/en/?utm_campaign=PFM_GOOGLE_ACQ_BAU_BROKERAGE_ALL_WEB_UK_SEM_BRAND&gad_source=1&gad_campaignid=22065433583&gbraid=0AAAAADNGvrMELSOkrLqtByLo_EEWy3Qra&gclid=Cj0KCQiA9t3KBhCQARIsAJOcR7y3N5RX61U14ByDOAsZO843jAbmh9eEXnQwL5gRwNcRDzFRtrCE9swaAivEEALw_wcB"
+    },
+    {
+      "title": "Buy Gold: Glint Pay | Buy, Save & Spend Physical Gold",
+      "url": "https://glintpay.com/us"
+    },
+    {
+      "title": "Maple Finance",
+      "url": "https://maple.finance/#borrow"
+    },
+    {
+      "title": "What is SP3ND?",
+      "url": "https://endurable-skink-124.notion.site/What-is-SP3ND-1c7488b678ba80be8262d99470b1b38b"
+    },
+    {
+      "title": "GoDaddy Domain Name Search",
+      "url": "https://www.godaddy.com/en-uk/domainsearch/find?domainToCheck=KyraPay.com"
+    },
+    {
+      "title": "SP3ND - Shop Amazon with Stablecoins | USDC Shopping Platform",
+      "url": "https://www.sp3nd.shop/"
+    },
+    {
+      "title": "Account",
+      "url": "https://shop.app/account"
+    },
+    {
+      "title": "ZeroDev: Smart Account Abstraction | Gasless, Walletless Crypto UX",
+      "url": "https://zerodev.app/"
+    },
+    {
+      "title": "Maple Finance",
+      "url": "https://maple.finance/"
+    },
+    {
+      "title": "goodreads.com/book/show/22668729-hooked",
+      "url": "https://www.goodreads.com/book/show/22668729-hooked"
+    },
+    {
+      "title": "Unity meets Rust | Miguel Palhas | @naps62",
+      "url": "https://naps.pt/posts/unity-meets-rust"
+    },
+    {
+      "title": "Tolan: Alien Best Friend",
+      "url": "https://www.tolans.com/"
+    },
+    {
+      "title": "mobbin.com/?redirect_to=%2Fsearch%2Fapps%2Fweb%3Fcontent_type%3Dapps%26filter%3DappCategories.Crypto%2B%2526%2BWeb3",
+      "url": "https://mobbin.com/?redirect_to=%2Fsearch%2Fapps%2Fweb%3Fcontent_type%3Dapps%26filter%3DappCategories.Crypto%2B%2526%2BWeb3"
+    },
+    {
+      "title": "Mobbin — UI & UX design inspiration for mobile & web apps",
+      "url": "https://mobbin.com/"
+    },
+    {
+      "title": "v21 Studio",
+      "url": "https://www.v21.studio/"
+    },
+    {
+      "title": "Seline Analytics: The simple & actionable Google Analytics alternative",
+      "url": "https://seline.com/"
+    },
+    {
+      "title": "Invest in bitcoin — the easy way | easyBitcoin",
+      "url": "https://easybitcoin.app/"
+    },
+    {
+      "title": "Uphold: Buy & Sell Crypto, Stablecoins and more | Trade Digital Assets | Uphold",
+      "url": "https://uphold.com/en-gb"
+    },
+    {
+      "title": "mamo.bot",
+      "url": "https://mamo.bot/"
+    },
+    {
+      "title": "blackrock.com/pt/profissionais/products/251882/ishares-msci-world-ucits-etf-acc-fund",
+      "url": "https://www.blackrock.com/pt/profissionais/products/251882/ishares-msci-world-ucits-etf-acc-fund"
+    },
+    {
+      "title": "Explore | Ondo Finance",
+      "url": "https://app.ondo.finance/"
+    },
+    {
+      "title": "MENA's Leading Investment Summit | Abu Dhabi Finance Week",
+      "url": "https://www.adfw.com/"
+    },
+    {
+      "title": "FlexIt - Every Post = Coin. Every Creator = Asset.",
+      "url": "https://www.flexitsol.fun/"
+    },
+    {
+      "title": "Swap 1029743 | Chainflip Explorer",
+      "url": "https://scan.chainflip.io/swaps/1029743"
+    },
+    {
+      "title": "Jumper | Multi-Chain Bridging & Swapping",
+      "url": "https://jumper.exchange/"
+    },
+    {
+      "title": "Iesniegums",
+      "url": "https://www2.mfa.gov.lv/images/AK/Iesniegums_dokumentu_sanemsanai_pa_pastu.pdf"
+    },
+    {
+      "title": "Laevitas - Assets Options Overview - BTC",
+      "url": "https://app.laevitas.ch/assets/options/overview/BTC?search=volume_by_strike"
+    },
+    {
+      "title": "Laevitas - Assets Options Overview - BTC",
+      "url": "https://app.laevitas.ch/assets/options/overview/BTC?search=Volume_by_expiration"
+    },
+    {
+      "title": "Jumper | Multi-Chain Bridging & Swapping",
+      "url": "https://jumper.exchange/?fromChain=1&fromToken=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48&toAddress=bc1qs7c9wksnq0xxhuy339a3x7q60h342tjrhuf4u8&toChain=20000000000001&toToken=bitcoin"
+    },
+    {
+      "title": ".NET Multi-platform App UI (.NET MAUI) | .NET",
+      "url": "https://dotnet.microsoft.com/en-us/apps/maui"
+    },
+    {
+      "title": "deBridge | Instant Cross-Chain Swaps & Transfers",
+      "url": "https://app.debridge.finance/?address=TWUC2Nq29Rgz4cmsNzn5ywyQ2JNpTHYsbP&inputChain=1&outputChain=728126428&inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&outputCurrency=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t&amount=0&dlnMode=simple"
+    },
+    {
+      "title": "Copper | Building the institutional standard for digital assets",
+      "url": "https://copper.co/en"
+    },
+    {
+      "title": "Digital Asset Summit 2025 - Blockworks",
+      "url": "https://blockworks.co/event/digital-asset-summit-2025-london/sponsors"
+    },
+    {
+      "title": "OneNotary",
+      "url": "https://app.onenotary.us/acts/64effe8a-082d-4344-8091-802eed5b2193/pre_session"
+    },
+    {
+      "title": "CWA & Associates",
+      "url": "https://cwa.nevis.kn/"
+    },
+    {
+      "title": "DeathX Fun - Ultimate Provably Fair Blockchain Game | Play Now",
+      "url": "https://deathx.fun/"
+    },
+    {
+      "title": "Swagger UI",
+      "url": "https://www.hpxshop.me/v2/cfd/swagger-ui/index.html?urls.primaryName=Perpetual%20Contract%20Feature%20API"
+    },
+    {
+      "title": "How to Turn Translation On or Off in Chrome",
+      "url": "https://www.howtogeek.com/407924/how-to-turn-translation-on-or-off-in-chrome/"
+    },
+    {
+      "title": "Photon SOL - New Pairs",
+      "url": "https://photon-sol.tinyastro.io/en/discover"
+    }
+  ],
+  "proyt": [
+    {
+      "title": "Pyra | Hold, Earn, Spend",
+      "url": "https://www.pyra.fi/"
+    },
+    {
+      "title": "FLock - Federated Machine Learning On the Blockchain",
+      "url": "https://www.flock.io/"
+    },
+    {
+      "title": "DaisyLink | Enhance Payments Now - Learn More",
+      "url": "https://www.daisylink.xyz/home#why"
+    },
+    {
+      "title": "I miss thinking hard.",
+      "url": "https://www.jernesto.com/articles/thinking_hard"
+    },
+    {
+      "title": "Yield Basis - Market volatility is your yield",
+      "url": "https://yieldbasis.com/earn/0xfBF3C16676055776Ab9B286492D8f13e30e2E763"
+    },
+    {
+      "title": "Superform | Earn More, Do Less",
+      "url": "https://www.superform.xyz/"
+    },
+    {
+      "title": "Ern Protocol | Institutional DeFi Yield Infrastructure",
+      "url": "https://v0-de-fi-dashboard-rho.vercel.app/"
+    },
+    {
+      "title": "(1) Omar on X: \"Bank of America CEO on why stablecoins shouldn't pay interest: (TLDR: consumers shouldn't earn yield so banks can) Quick summary: Interest on stables -&gt; mass deposit flight Fully reserved money -&gt; no fractional leverage Banks lose free funding -&gt; profits go bye bye! https://t.co/2ebBx82NE9\" / X",
+      "url": "https://x.com/theoneandomsy/status/2011673735065939979?s=46"
+    },
+    {
+      "title": "bitcoinsyndicate.com",
+      "url": "https://www.afternic.com/forsale/bitcoinsyndicate.com?utm_source=TDFS_DASLNC&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-daslnc_base&traffic_type=TDFS_DASLNC&traffic_id=daslnc&"
+    },
+    {
+      "title": "🎩 Calmness - Earn Dashboard by Bartholomew ツ on Dribbble",
+      "url": "https://dribbble.com/shots/19745504--Calmness-Earn-Dashboard"
+    },
+    {
+      "title": "Cosmos Hub (ATOM) Staking Calculator",
+      "url": "https://www.stakingrewards.com/asset/cosmos/calculator"
+    },
+    {
+      "title": "Spark: Earn on your stablecoins",
+      "url": "https://spark.fi/"
+    },
+    {
+      "title": "Lolli: Earn Bitcoin and Cash Back Rewards",
+      "url": "https://lolli.com/"
+    },
+    {
+      "title": "Zeus - Earn with Bitcoin",
+      "url": "https://app.zeusnetwork.xyz/stake"
+    },
+    {
+      "title": "Spark: Earn on your stablecoins",
+      "url": "https://app.spark.fi/"
+    },
+    {
+      "title": "ern.app/dashboard",
+      "url": "https://ern.app/dashboard"
+    },
+    {
+      "title": "Aave Markets: Live And Historical Lending Rates | Aavescan",
+      "url": "https://aavescan.com/"
+    }
+  ],
+  "reference": [
+    {
+      "title": "ZachXBT - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ZachXBT"
+    }
+  ],
+  "shopping": [
+    {
+      "title": "Freedom of Money: A Memoir of Protecting Users, Resilience, and the Founding of Binance: Zhao, Changpeng, He, Yi: 9798995069614: Amazon.com: Books",
+      "url": "https://www.amazon.com/Freedom-Money-Protecting-Resilience-Founding/dp/B0GVZK8QPG/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.QzpPBOac4_lackYp8EBvzQ.eCYqb93aJTOUn5lPAGK9Oa9Jd-gaVBBihfbxC0fzv3U&qid=1776186601&sr=1-1"
+    },
+    {
+      "title": "The AI Search Revolution: Adaptive SEO in the Age of AI: Monaghan, Dan: 9798269159195: Amazon.com: Books",
+      "url": "https://www.amazon.com/AI-Search-Revolution-Adaptive-SEO/dp/B0FVTPL93S"
+    },
+    {
+      "title": "Functional Programming in Scala: Amazon.co.uk: Chiusano, Paul, Bjarnason, Runar: 9789351197638: Books",
+      "url": "https://www.amazon.co.uk/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653"
+    }
+  ],
+  "social": [
+    {
+      "title": "(2) ZachXBT (@zachxbt) / X",
+      "url": "https://x.com/zachxbt"
+    },
+    {
+      "title": "(4) Jesus Freakin Congress on X: \"🚨BREAKING: Iran just dropped another AI LEGO video… And somehow, it’s a more accurate summary of the U.S. government than anything coming out of the U.S. government. https://t.co/TKOFXMHrWq\" / X",
+      "url": "https://x.com/TheJFreakinC/status/2042258125902770272"
+    },
+    {
+      "title": "(1) Pyra (@GetPyra) / X",
+      "url": "https://x.com/GetPyra"
+    },
+    {
+      "title": "swyx on X: \"so AIE Europe is completely taking over 🇬🇧London next week! very very hyped to showcase the best companies, research, and AI engineers in Europe! 3 COMPLETELY FREE ways to join in: - there are a dozen side events around town! from Snorkel to GitHub to Arize to ClawCon and https://t.co/5lTiTlHQFB\" / X",
+      "url": "https://x.com/swyx/status/2039398936423850017"
+    },
+    {
+      "title": "(3) Jay Scambler on X: \"autocontext: The Recursive Self-Improving Loop that Many are Calling AGI\" / X",
+      "url": "https://x.com/JayScambler/status/2033971974284714355"
+    },
+    {
+      "title": "(9) anonmesh (@anon0mesh) / X",
+      "url": "https://x.com/anon0mesh"
+    },
+    {
+      "title": "(5) Jovian Shilton Dsouza on X: \"We built the first open-source privacy-first crypto POS on Solana And we just won 🏆 for the best USD1 Integration for @radrlabs at the @solana_devs Privacy Hackathon. Meet GhostPay 👻💳 https://t.co/MzTvDaugz4\" / X",
+      "url": "https://x.com/DsouzaJovian/status/2025616227104858229"
+    },
+    {
+      "title": "Spey Bay GC (@SpeyBayGC) / X",
+      "url": "https://x.com/speybaygc"
+    },
+    {
+      "title": "Links Golf Club (@LinksDAO) / X",
+      "url": "https://x.com/linksdao"
+    },
+    {
+      "title": "Matthew Berman on X: \"I replaced a $200K GTM hire with @openclaw 😱 here's the system that runs my outbound: step 1: mine LinkedIn engagement → @rapidapi scrapes everyone engaging with niche content → someone who commented on specific posts = 10x warmer step 2: enrich + verify → Hunter/Apollo https://t.co/dxm55MmQPe\" / X",
+      "url": "https://x.com/TheMattBerman/status/2024678503598235963"
+    },
+    {
+      "title": "Sam Parr on X: \"Dear London founders, Hampton’s going all in on in-person. I’m building 8-person peer groups in London. Must be a founder or CEO and have $3M+ revenue or funding, or $10M+ exit. We have 1k+ members &amp; do hundreds of irl events. Interested?\" / X",
+      "url": "https://x.com/thesamparr/status/2011825200128462937"
+    },
+    {
+      "title": "Floyd on X: \"@BananaZoneApp https://t.co/g0qXSSBTYl\" / X",
+      "url": "https://x.com/Floydbanks83/status/2023924483279507922"
+    },
+    {
+      "title": "Bluff.com (@official_bluff) / X",
+      "url": "https://x.com/official_bluff?hzet=dszqupsbol"
+    },
+    {
+      "title": "Pop Punk on X: \"Your Attention Span Is Cooked (And So Are The Markets)\" / X",
+      "url": "https://x.com/PopPunkOnChain/status/2006092061251101124"
+    },
+    {
+      "title": "0xMarioNawfal on X: \"This new Polymarket Clawdbot is farming 5-minute BTC rounds like a money printer https://t.co/xwnJ3DgMGh\" / X",
+      "url": "https://x.com/RoundtableSpace/status/2022238062982336633?s=20"
+    },
+    {
+      "title": "Anduro on X: \"Bitcoin just made a meaningful step toward future quantum resistance 💪 An updated version of BIP 360 has just been merged into the official Bitcoin BIP GitHub repository. The update introduces Pay-to-Merkle-Root (P2MR), a proposed new output type that omits Taproot’s\" / X",
+      "url": "https://x.com/andurobtc/status/2021703526666449095?s=48"
+    },
+    {
+      "title": "Red Bull UK on X: \"Calling the most fearless, fun-loving and foolhardy teams 💨 Want to enter Red Bull Soapbox Race? Don't miss out, now is your chance!\" / X",
+      "url": "https://x.com/RedBullUK/status/2018283187143888915"
+    },
+    {
+      "title": "Cooper on X: \"GM Seeker gang ☀️ Another week cleared ✅ Rings closed. Bags loading. Still giga-bullish on $SKR SZN 📱🔥 https://t.co/dKG8sPYfcJ\" / X",
+      "url": "https://x.com/0xC00per/status/2021480859698679925"
+    },
+    {
+      "title": "X Pro",
+      "url": "https://pro.x.com/"
+    },
+    {
+      "title": "(2) runner.rodeo (@RunnerRodeo) / X",
+      "url": "https://x.com/RunnerRodeo"
+    },
+    {
+      "title": "TokenWorks™ (@token_works) / X",
+      "url": "https://x.com/token_works?lang=en"
+    },
+    {
+      "title": "Shift.fun (@shiftfun) / X",
+      "url": "https://x.com/shiftfun"
+    },
+    {
+      "title": "Shelpid.WI3M on X: \"🚨 This is insane… this guy built a clawdbot that turned $50 into ~$248K overnight\" / X",
+      "url": "https://x.com/Shelpid_WI3M/status/2017938351576215802"
+    },
+    {
+      "title": "fibonaci restraisment - Search / X",
+      "url": "https://x.com/search?q=fibonaci%20restraisment&src=typed_query"
+    },
+    {
+      "title": "X",
+      "url": "https://x.com/StarkWareLtd/status/1972970233657700809"
+    },
+    {
+      "title": "(1) Theo - t3.gg (@theo) / X",
+      "url": "https://x.com/theo"
+    },
+    {
+      "title": "IT Unprofessional on X: \"The $280k IT Director's Guide to Corporate Survival\" / X",
+      "url": "https://x.com/it_unprofession/status/2014141526599950728?s=48&t=NI0VOZ8-QidC-ntXLlwL_A"
+    },
+    {
+      "title": "(2) Sol-Incinerator (@solincinerator) / X",
+      "url": "https://x.com/solincinerator"
+    },
+    {
+      "title": "DeFi Andree on X: \"Aave is becoming the default onchain savings app. $5,000 + $250/month → ~$309K in 30 years at ~6.5% APY. Same habit at banks → ~$101K. The gap is decades of lost compounding. Try your number and see the difference. @aave https://t.co/owo13MGFgx\" / X",
+      "url": "https://x.com/DeFi_Andree/status/2014280411401318676/photo/1"
+    },
+    {
+      "title": "(2) Marino on X: \"Less than 2 hours later, already pumped beyond $500M FDV - CRAZY. This is even exceeding my bullish expectations! ✅ Your $SKR airdrop is now worth: 👉 Scout: $250+ 👉 Prospector: $500+ 👉 Vanguard: $2,000+ 👉 Luminary: $6,250+ 👉 Sovereign: $37,500+ https://t.co/0LKbfFwukz\" / X",
+      "url": "https://x.com/marinonchain/status/2014181950001389667"
+    },
+    {
+      "title": "Pump.fun on X: \"Eligibility requirements - Launch a token - Build a project - Own at least 10% of the token’s supply - Build in Public: Posting on X, forming a Community &amp; Streaming on Pump fun are HIGHLY encouraged -Apply via the form: https://t.co/QPWHidRgab\" / X",
+      "url": "https://x.com/pumpfun/status/2013386538990575761?s=46&t=hDsG8QyU_UsgPqKEzQIAwA"
+    },
+    {
+      "title": "(1) Figment (@Figment_io) / X",
+      "url": "https://x.com/Figment_io"
+    },
+    {
+      "title": "Daniel Sempere Pico on X: \"Bitcoin is up 2,653% in Iranian Rials because the currency is collapsing. Iranians who held bitcoin preserved their wealth. Iranians who trusted their currency lost 96%. Everyone deserves money their government can't destroy. https://t.co/wWlXVnGsGD\" / X",
+      "url": "https://x.com/dansemperepico/status/2011031511513039065?s=46"
+    },
+    {
+      "title": "Pricing - Orangedox",
+      "url": "https://www.orangedox.com/pricing"
+    },
+    {
+      "title": "SP3ND 🛍️ (@SP3NDdotshop) / X",
+      "url": "https://x.com/SP3NDdotshop"
+    },
+    {
+      "title": "X",
+      "url": "https://x.com/ardizor/status/1991881368910037355?s=46"
+    },
+    {
+      "title": "Leshka.eth ⛩ on X: \"billionaire investor Ron Baron told you why you're getting poorer: money loses 4-5% purchasing power per year economy grows 2% annually= roughly 7% combined erosion what this means: prices double every 10-12 years your savings cut in half every 15 years cash under the mattress https://t.co/txWMgcsltI\" / X",
+      "url": "https://x.com/leshka_eth/status/2000738467953967362?s=20"
+    },
+    {
+      "title": "🛡️ White Label Exchange: Award-Winning HollaEx® Software",
+      "url": "https://www.hollaex.com/white-label-crypto-exchange#video"
+    },
+    {
+      "title": "x.com/tim__jenkins",
+      "url": "https://x.com/tim__jenkins"
+    }
+  ],
+  "vc": [
+    {
+      "title": "Portal Ventures",
+      "url": "https://portal.vc/"
+    },
+    {
+      "title": "21shares - Crypto for everyone.",
+      "url": "https://www.21shares.com/en-uk"
+    },
+    {
+      "title": "Speedrun - Companies",
+      "url": "https://speedrun.a16z.com/companies"
+    },
+    {
+      "title": "Elizabeth Harkavy - a16z crypto",
+      "url": "https://a16zcrypto.com/team/elizabeth-harkavy/"
+    }
+  ],
+  "video": [
+    {
+      "title": "Vadim Key - YouTube",
+      "url": "https://www.youtube.com/@VadimKey"
+    },
+    {
+      "title": "Connor Price & Idris Elba - More Mentors (Official Music Video) - YouTube",
+      "url": "https://www.youtube.com/watch?v=VZcP6UGxgLU"
+    },
+    {
+      "title": "AI Engineer - YouTube",
+      "url": "https://www.youtube.com/@aidotengineer"
+    },
+    {
+      "title": "Afro House Jazz Mix | (Slow Burn) Nighttime Session | Ideal for Late Hours & Flow - YouTube",
+      "url": "https://www.youtube.com/watch?v=j2WmhEV84_o"
+    },
+    {
+      "title": "I Control EVERYTHING with this Raspberry Pi - YouTube",
+      "url": "https://www.youtube.com/watch?v=gpyYCTgJO88"
+    },
+    {
+      "title": "Your Own AI Butler for $75? OpenClaw+Kimi K-2.5 on Raspberry Pi [Full Tutorial] - YouTube",
+      "url": "https://www.youtube.com/watch?v=KjxYpRkPT48&t=92s"
+    },
+    {
+      "title": "Master OpenClaw/Clawdbot in 35 minutes - YouTube",
+      "url": "https://www.youtube.com/watch?v=4evf5YqVzOM"
+    },
+    {
+      "title": "NetworkChuck - YouTube",
+      "url": "https://www.youtube.com/@NetworkChuck/videos"
+    },
+    {
+      "title": "El Risitas - Funniest Laugh Ever!! - YouTube",
+      "url": "https://www.youtube.com/watch?v=Fkk9DI-8el4"
+    },
+    {
+      "title": "Rourke Heath - YouTube",
+      "url": "https://www.youtube.com/@RourkeHeath"
+    },
+    {
+      "title": "Panicked IT-Guy | ChinChins: Psychotherapists State-Style | Episode 4 - YouTube",
+      "url": "https://www.youtube.com/watch?v=Ws41dd9Hq8Y"
+    },
+    {
+      "title": "ClawdBot is the most powerful AI tool I’ve ever used in my life. Here’s how to set it up - YouTube",
+      "url": "https://www.youtube.com/watch?v=Qkqe-uRhQJE&t=59s"
+    },
+    {
+      "title": "Ramsey Shallal - YouTube",
+      "url": "https://www.youtube.com/@ramseyshallal"
+    },
+    {
+      "title": "Why I Stopped Using Supabase (Is Convex Better?) - YouTube",
+      "url": "https://www.youtube.com/watch?v=h6ffyfabfa8"
+    },
+    {
+      "title": "It’s time to change your database - YouTube",
+      "url": "https://www.youtube.com/watch?v=B6C-MWCFfAg"
+    },
+    {
+      "title": "How to Build Your First MCP Server (in Less Than 5 Minutes) - YouTube",
+      "url": "https://www.youtube.com/watch?v=Y4bpWRLdRoA"
+    },
+    {
+      "title": "How I code with AI right now - YouTube",
+      "url": "https://www.youtube.com/watch?v=-g1yKRo5XtY"
+    },
+    {
+      "title": "The PrimeTime - YouTube",
+      "url": "https://www.youtube.com/@ThePrimeTimeagen"
+    },
+    {
+      "title": "Making a POST Request Using Power Query - YouTube",
+      "url": "https://www.youtube.com/watch?v=hbt45XCD5RU"
+    }
+  ]
+}
