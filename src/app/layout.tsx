@@ -14,6 +14,29 @@ export const metadata: Metadata = {
     ],
     apple: "/apple-touch-icon.png",
   },
+  openGraph: {
+    title: "Chris Tarasovs",
+    description: "Builder of agentic systems & quiet AI infrastructure",
+    url: "https://christarasovs.com",
+    siteName: "Chris Tarasovs",
+    images: [
+      {
+        url: "/metadescription.png",
+        width: 1200,
+        height: 630,
+        alt: "Chris Tarasovs",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Chris Tarasovs",
+    description: "Builder of agentic systems & quiet AI infrastructure",
+    images: ["/metadescription.png"],
+  },
+  metadataBase: new URL("https://christarasovs.com"),
 };
 
 export default function RootLayout({
