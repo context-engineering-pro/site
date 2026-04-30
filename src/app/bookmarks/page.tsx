@@ -13,7 +13,6 @@ const CATEGORY_CONFIG: Record<string, { label: string; color: string; icon: stri
   code: { label: "Code", color: "bg-green-500/10 text-green-400 border-green-500/20", icon: "💻" },
   devtools: { label: "Dev Tools", color: "bg-emerald-500/10 text-emerald-400 border-emerald-500/20", icon: "🛠" },
   analytics: { label: "Analytics", color: "bg-teal-500/10 text-teal-400 border-teal-500/20", icon: "📊" },
-  proyt: { label: "Earn & Yield", color: "bg-lime-500/10 text-lime-400 border-lime-500/20", icon: "💸" },
   crypto: { label: "Crypto & Web3", color: "bg-orange-500/10 text-orange-400 border-orange-500/20", icon: "₿" },
   vc: { label: "VCs", color: "bg-amber-500/10 text-amber-400 border-amber-500/20", icon: "🏦" },
   finance: { label: "Finance", color: "bg-yellow-500/10 text-yellow-400 border-yellow-500/20", icon: "💰" },
