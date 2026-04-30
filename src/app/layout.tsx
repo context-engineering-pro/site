@@ -5,7 +5,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Chris Tarasovs",
-  description: "Builder of agentic systems & quiet AI infrastructure",
+  description: "Head of Engineering | Helping Teams Scale with AI & Automation | Ex-SingularityDAO · Deutsche Bank · BlockEx",
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "any" },
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Chris Tarasovs",
-    description: "Builder of agentic systems & quiet AI infrastructure",
+    description: "Head of Engineering | Helping Teams Scale with AI & Automation | Ex-SingularityDAO · Deutsche Bank · BlockEx",
     url: "https://christarasovs.com",
     siteName: "Chris Tarasovs",
     images: [
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Chris Tarasovs",
-    description: "Builder of agentic systems & quiet AI infrastructure",
+    description: "Head of Engineering | Helping Teams Scale with AI & Automation | Ex-SingularityDAO · Deutsche Bank · BlockEx",
     images: ["/metadescription.png"],
   },
   metadataBase: new URL("https://christarasovs.com"),
